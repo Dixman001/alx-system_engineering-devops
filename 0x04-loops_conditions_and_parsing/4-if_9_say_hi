@@ -7,7 +7,7 @@ while [ $i -le 10 ]; do
 	echo "Best School"
 	if [ $1 -eq 9 ]
 	then
-		echo "hi"
+		echo "Hi"
 	fi
 	((i++))
 done
